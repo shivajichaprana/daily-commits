@@ -4,3 +4,5 @@
 - 2020-01-02: Implemented new feature
 
 - 2020-01-03: Fixed bugs
+
+- 2020-01-04: Refactored code
