@@ -8,3 +8,5 @@
 - 2020-01-04: Refactored code
 
 - 2020-01-05: Added documentation
+
+- 2020-01-06: Performed code review
