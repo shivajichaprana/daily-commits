@@ -22,3 +22,5 @@
 - 2020-01-11: Fixed bugs
 
 - 2020-01-12: Refactored code
+
+- 2020-01-13: Added documentation
