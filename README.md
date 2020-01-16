@@ -30,3 +30,5 @@
 - 2020-01-15: Optimized performance
 
 - 2020-01-16: Resolved issues
+
+- 2020-01-17: Worked on project setup
