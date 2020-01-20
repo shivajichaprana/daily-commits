@@ -38,3 +38,5 @@
 - 2020-01-19: Fixed bugs
 
 - 2020-01-20: Refactored code
+
+- 2020-01-21: Added documentation
