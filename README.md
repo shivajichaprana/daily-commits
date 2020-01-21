@@ -40,3 +40,5 @@
 - 2020-01-20: Refactored code
 
 - 2020-01-21: Added documentation
+
+- 2020-01-22: Performed code review
