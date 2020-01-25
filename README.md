@@ -48,3 +48,5 @@
 - 2020-01-24: Resolved issues
 
 - 2020-01-25: Worked on project setup
+
+- 2020-01-26: Implemented new feature
