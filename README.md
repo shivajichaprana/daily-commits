@@ -54,3 +54,5 @@
 - 2020-01-27: Fixed bugs
 
 - 2020-01-28: Refactored code
+
+- 2020-01-29: Added documentation
