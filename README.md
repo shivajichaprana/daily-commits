@@ -66,3 +66,5 @@
 - 2020-02-02: Worked on project setup
 
 - 2020-02-03: Implemented new feature
+
+- 2020-02-04: Fixed bugs
