@@ -72,3 +72,5 @@
 - 2020-02-05: Refactored code
 
 - 2020-02-06: Added documentation
+
+- 2020-02-07: Performed code review
