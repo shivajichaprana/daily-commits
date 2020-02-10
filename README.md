@@ -80,3 +80,5 @@
 - 2020-02-09: Resolved issues
 
 - 2020-02-10: Worked on project setup
+
+- 2020-02-11: Implemented new feature
