@@ -92,3 +92,5 @@
 - 2020-02-15: Performed code review
 
 - 2020-02-16: Optimized performance
+
+- 2020-02-17: Resolved issues
