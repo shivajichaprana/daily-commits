@@ -102,3 +102,5 @@
 - 2020-02-20: Fixed bugs
 
 - 2020-02-21: Refactored code
+
+- 2020-02-22: Added documentation
