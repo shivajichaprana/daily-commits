@@ -112,3 +112,5 @@
 - 2020-02-25: Resolved issues
 
 - 2020-02-26: Worked on project setup
+
+- 2020-02-27: Implemented new feature
