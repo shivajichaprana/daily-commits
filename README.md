@@ -120,3 +120,5 @@
 - 2020-02-29: Refactored code
 
 - 2020-03-01: Added documentation
+
+- 2020-03-02: Performed code review
