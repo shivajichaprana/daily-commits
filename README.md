@@ -124,3 +124,5 @@
 - 2020-03-02: Performed code review
 
 - 2020-03-03: Optimized performance
+
+- 2020-03-04: Resolved issues
