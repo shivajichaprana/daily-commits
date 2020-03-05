@@ -128,3 +128,5 @@
 - 2020-03-04: Resolved issues
 
 - 2020-03-05: Worked on project setup
+
+- 2020-03-06: Implemented new feature
