@@ -130,3 +130,5 @@
 - 2020-03-05: Worked on project setup
 
 - 2020-03-06: Implemented new feature
+
+- 2020-03-07: Fixed bugs
