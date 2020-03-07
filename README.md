@@ -132,3 +132,5 @@
 - 2020-03-06: Implemented new feature
 
 - 2020-03-07: Fixed bugs
+
+- 2020-03-08: Refactored code
