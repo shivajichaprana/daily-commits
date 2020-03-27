@@ -172,3 +172,5 @@
 - 2020-03-26: Performed code review
 
 - 2020-03-27: Optimized performance
+
+- 2020-03-28: Resolved issues
