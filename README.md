@@ -188,3 +188,5 @@
 - 2020-04-03: Performed code review
 
 - 2020-04-04: Optimized performance
+
+- 2020-04-05: Resolved issues
