@@ -212,3 +212,5 @@
 - 2020-04-15: Implemented new feature
 
 - 2020-04-16: Fixed bugs
+
+- 2020-04-17: Refactored code
