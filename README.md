@@ -220,3 +220,5 @@
 - 2020-04-19: Performed code review
 
 - 2020-04-20: Optimized performance
+
+- 2020-04-21: Resolved issues
