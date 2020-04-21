@@ -222,3 +222,5 @@
 - 2020-04-20: Optimized performance
 
 - 2020-04-21: Resolved issues
+
+- 2020-04-22: Worked on project setup
