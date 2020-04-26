@@ -232,3 +232,5 @@
 - 2020-04-25: Refactored code
 
 - 2020-04-26: Added documentation
+
+- 2020-04-27: Performed code review
