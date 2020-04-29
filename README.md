@@ -238,3 +238,5 @@
 - 2020-04-28: Optimized performance
 
 - 2020-04-29: Resolved issues
+
+- 2020-04-30: Worked on project setup
