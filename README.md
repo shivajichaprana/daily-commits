@@ -240,3 +240,5 @@
 - 2020-04-29: Resolved issues
 
 - 2020-04-30: Worked on project setup
+
+- 2020-05-01: Implemented new feature
