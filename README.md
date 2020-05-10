@@ -260,3 +260,5 @@
 - 2020-05-09: Implemented new feature
 
 - 2020-05-10: Fixed bugs
+
+- 2020-05-11: Refactored code
