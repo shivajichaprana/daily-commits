@@ -262,3 +262,5 @@
 - 2020-05-10: Fixed bugs
 
 - 2020-05-11: Refactored code
+
+- 2020-05-12: Added documentation
