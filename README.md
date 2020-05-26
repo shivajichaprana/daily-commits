@@ -292,3 +292,5 @@
 - 2020-05-25: Implemented new feature
 
 - 2020-05-26: Fixed bugs
+
+- 2020-05-27: Refactored code
