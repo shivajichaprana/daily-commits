@@ -300,3 +300,5 @@
 - 2020-05-29: Performed code review
 
 - 2020-05-30: Optimized performance
+
+- 2020-05-31: Resolved issues
