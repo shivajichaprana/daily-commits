@@ -304,3 +304,5 @@
 - 2020-05-31: Resolved issues
 
 - 2020-06-01: Worked on project setup
+
+- 2020-06-02: Implemented new feature
