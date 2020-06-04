@@ -310,3 +310,5 @@
 - 2020-06-03: Fixed bugs
 
 - 2020-06-04: Refactored code
+
+- 2020-06-05: Added documentation
