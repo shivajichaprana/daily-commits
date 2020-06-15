@@ -332,3 +332,5 @@
 - 2020-06-14: Performed code review
 
 - 2020-06-15: Optimized performance
+
+- 2020-06-16: Resolved issues
