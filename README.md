@@ -340,3 +340,5 @@
 - 2020-06-18: Implemented new feature
 
 - 2020-06-19: Fixed bugs
+
+- 2020-06-20: Refactored code
