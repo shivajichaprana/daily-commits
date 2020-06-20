@@ -342,3 +342,5 @@
 - 2020-06-19: Fixed bugs
 
 - 2020-06-20: Refactored code
+
+- 2020-06-21: Added documentation
