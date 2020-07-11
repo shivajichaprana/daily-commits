@@ -384,3 +384,5 @@
 - 2020-07-10: Resolved issues
 
 - 2020-07-11: Worked on project setup
+
+- 2020-07-12: Implemented new feature
