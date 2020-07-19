@@ -400,3 +400,5 @@
 - 2020-07-18: Resolved issues
 
 - 2020-07-19: Worked on project setup
+
+- 2020-07-20: Implemented new feature
