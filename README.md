@@ -404,3 +404,5 @@
 - 2020-07-20: Implemented new feature
 
 - 2020-07-21: Fixed bugs
+
+- 2020-07-22: Refactored code
