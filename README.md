@@ -416,3 +416,5 @@
 - 2020-07-26: Resolved issues
 
 - 2020-07-27: Worked on project setup
+
+- 2020-07-28: Implemented new feature
