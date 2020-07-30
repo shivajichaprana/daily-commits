@@ -422,3 +422,5 @@
 - 2020-07-29: Fixed bugs
 
 - 2020-07-30: Refactored code
+
+- 2020-07-31: Added documentation
