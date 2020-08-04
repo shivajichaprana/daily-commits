@@ -432,3 +432,5 @@
 - 2020-08-03: Resolved issues
 
 - 2020-08-04: Worked on project setup
+
+- 2020-08-05: Implemented new feature
