@@ -438,3 +438,5 @@
 - 2020-08-06: Fixed bugs
 
 - 2020-08-07: Refactored code
+
+- 2020-08-08: Added documentation
