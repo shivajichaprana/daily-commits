@@ -440,3 +440,5 @@
 - 2020-08-07: Refactored code
 
 - 2020-08-08: Added documentation
+
+- 2020-08-09: Performed code review
