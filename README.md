@@ -452,3 +452,5 @@
 - 2020-08-13: Implemented new feature
 
 - 2020-08-14: Fixed bugs
+
+- 2020-08-15: Refactored code
