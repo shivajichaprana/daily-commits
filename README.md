@@ -454,3 +454,5 @@
 - 2020-08-14: Fixed bugs
 
 - 2020-08-15: Refactored code
+
+- 2020-08-16: Added documentation
