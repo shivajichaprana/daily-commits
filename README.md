@@ -458,3 +458,5 @@
 - 2020-08-16: Added documentation
 
 - 2020-08-17: Performed code review
+
+- 2020-08-18: Optimized performance
