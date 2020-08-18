@@ -460,3 +460,5 @@
 - 2020-08-17: Performed code review
 
 - 2020-08-18: Optimized performance
+
+- 2020-08-19: Resolved issues
