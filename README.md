@@ -488,3 +488,5 @@
 - 2020-08-31: Refactored code
 
 - 2020-09-01: Added documentation
+
+- 2020-09-02: Performed code review
