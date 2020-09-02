@@ -490,3 +490,5 @@
 - 2020-09-01: Added documentation
 
 - 2020-09-02: Performed code review
+
+- 2020-09-03: Optimized performance
