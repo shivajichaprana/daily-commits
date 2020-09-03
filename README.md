@@ -492,3 +492,5 @@
 - 2020-09-02: Performed code review
 
 - 2020-09-03: Optimized performance
+
+- 2020-09-04: Resolved issues
