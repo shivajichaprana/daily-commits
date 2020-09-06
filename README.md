@@ -498,3 +498,5 @@
 - 2020-09-05: Worked on project setup
 
 - 2020-09-06: Implemented new feature
+
+- 2020-09-07: Fixed bugs
