@@ -500,3 +500,5 @@
 - 2020-09-06: Implemented new feature
 
 - 2020-09-07: Fixed bugs
+
+- 2020-09-08: Refactored code
