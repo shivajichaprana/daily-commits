@@ -502,3 +502,5 @@
 - 2020-09-07: Fixed bugs
 
 - 2020-09-08: Refactored code
+
+- 2020-09-09: Added documentation
