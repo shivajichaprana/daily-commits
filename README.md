@@ -508,3 +508,5 @@
 - 2020-09-10: Performed code review
 
 - 2020-09-11: Optimized performance
+
+- 2020-09-12: Resolved issues
