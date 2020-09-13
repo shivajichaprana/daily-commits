@@ -512,3 +512,5 @@
 - 2020-09-12: Resolved issues
 
 - 2020-09-13: Worked on project setup
+
+- 2020-09-14: Implemented new feature
