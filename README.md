@@ -516,3 +516,5 @@
 - 2020-09-14: Implemented new feature
 
 - 2020-09-15: Fixed bugs
+
+- 2020-09-16: Refactored code
