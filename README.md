@@ -520,3 +520,5 @@
 - 2020-09-16: Refactored code
 
 - 2020-09-17: Added documentation
+
+- 2020-09-18: Performed code review
