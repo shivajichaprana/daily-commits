@@ -522,3 +522,5 @@
 - 2020-09-17: Added documentation
 
 - 2020-09-18: Performed code review
+
+- 2020-09-19: Optimized performance
