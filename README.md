@@ -534,3 +534,5 @@
 - 2020-09-23: Fixed bugs
 
 - 2020-09-24: Refactored code
+
+- 2020-09-25: Added documentation
