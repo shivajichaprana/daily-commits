@@ -544,3 +544,5 @@
 - 2020-09-28: Resolved issues
 
 - 2020-09-29: Worked on project setup
+
+- 2020-09-30: Implemented new feature
