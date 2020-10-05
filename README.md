@@ -556,3 +556,5 @@
 - 2020-10-04: Performed code review
 
 - 2020-10-05: Optimized performance
+
+- 2020-10-06: Resolved issues
