@@ -560,3 +560,5 @@
 - 2020-10-06: Resolved issues
 
 - 2020-10-07: Worked on project setup
+
+- 2020-10-08: Implemented new feature
