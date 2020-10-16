@@ -578,3 +578,5 @@
 - 2020-10-15: Worked on project setup
 
 - 2020-10-16: Implemented new feature
+
+- 2020-10-17: Fixed bugs
