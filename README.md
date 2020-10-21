@@ -588,3 +588,5 @@
 - 2020-10-20: Performed code review
 
 - 2020-10-21: Optimized performance
+
+- 2020-10-22: Resolved issues
