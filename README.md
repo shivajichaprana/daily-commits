@@ -600,3 +600,5 @@
 - 2020-10-26: Refactored code
 
 - 2020-10-27: Added documentation
+
+- 2020-10-28: Performed code review
