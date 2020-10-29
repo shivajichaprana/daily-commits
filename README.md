@@ -604,3 +604,5 @@
 - 2020-10-28: Performed code review
 
 - 2020-10-29: Optimized performance
+
+- 2020-10-30: Resolved issues
