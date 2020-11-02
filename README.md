@@ -612,3 +612,5 @@
 - 2020-11-01: Implemented new feature
 
 - 2020-11-02: Fixed bugs
+
+- 2020-11-03: Refactored code
