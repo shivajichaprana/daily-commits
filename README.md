@@ -620,3 +620,5 @@
 - 2020-11-05: Performed code review
 
 - 2020-11-06: Optimized performance
+
+- 2020-11-07: Resolved issues
