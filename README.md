@@ -644,3 +644,5 @@
 - 2020-11-17: Implemented new feature
 
 - 2020-11-18: Fixed bugs
+
+- 2020-11-19: Refactored code
