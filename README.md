@@ -652,3 +652,5 @@
 - 2020-11-21: Performed code review
 
 - 2020-11-22: Optimized performance
+
+- 2020-11-23: Resolved issues
