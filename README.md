@@ -664,3 +664,5 @@
 - 2020-11-27: Refactored code
 
 - 2020-11-28: Added documentation
+
+- 2020-11-29: Performed code review
