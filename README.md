@@ -690,3 +690,5 @@
 - 2020-12-10: Worked on project setup
 
 - 2020-12-11: Implemented new feature
+
+- 2020-12-12: Fixed bugs
