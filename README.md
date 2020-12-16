@@ -700,3 +700,5 @@
 - 2020-12-15: Performed code review
 
 - 2020-12-16: Optimized performance
+
+- 2020-12-17: Resolved issues
