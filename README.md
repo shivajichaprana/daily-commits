@@ -704,3 +704,5 @@
 - 2020-12-17: Resolved issues
 
 - 2020-12-18: Worked on project setup
+
+- 2020-12-19: Implemented new feature
