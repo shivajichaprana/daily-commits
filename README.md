@@ -710,3 +710,5 @@
 - 2020-12-20: Fixed bugs
 
 - 2020-12-21: Refactored code
+
+- 2020-12-22: Added documentation
