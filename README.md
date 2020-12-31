@@ -730,3 +730,5 @@
 - 2020-12-30: Added documentation
 
 - 2020-12-31: Performed code review
+
+- 2021-01-01: Optimized performance
