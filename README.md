@@ -742,3 +742,5 @@
 - 2021-01-05: Fixed bugs
 
 - 2021-01-06: Refactored code
+
+- 2021-01-07: Added documentation
