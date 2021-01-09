@@ -888,3 +888,5 @@
 - 2021-01-08: Resolved issues
 
 - 2021-01-09: Worked on project setup
+
+- 2021-01-10: Implemented new feature
