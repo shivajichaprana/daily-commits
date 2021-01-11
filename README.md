@@ -752,3 +752,5 @@
 - 2021-01-10: Resolved issues
 
 - 2021-01-11: Worked on project setup
+
+- 2021-01-12: Implemented new feature
