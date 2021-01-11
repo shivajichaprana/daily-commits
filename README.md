@@ -892,3 +892,5 @@
 - 2021-01-10: Implemented new feature
 
 - 2021-01-11: Fixed bugs
+
+- 2021-01-12: Refactored code
