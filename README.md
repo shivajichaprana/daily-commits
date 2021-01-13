@@ -896,3 +896,5 @@
 - 2021-01-12: Refactored code
 
 - 2021-01-13: Added documentation
+
+- 2021-01-14: Performed code review
