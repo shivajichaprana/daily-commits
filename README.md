@@ -900,3 +900,5 @@
 - 2021-01-14: Performed code review
 
 - 2021-01-15: Optimized performance
+
+- 2021-01-16: Resolved issues
