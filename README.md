@@ -764,3 +764,5 @@
 - 2021-01-16: Performed code review
 
 - 2021-01-17: Optimized performance
+
+- 2021-01-18: Resolved issues
