@@ -904,3 +904,5 @@
 - 2021-01-16: Resolved issues
 
 - 2021-01-17: Worked on project setup
+
+- 2021-01-18: Implemented new feature
