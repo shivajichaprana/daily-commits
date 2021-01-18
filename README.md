@@ -906,3 +906,5 @@
 - 2021-01-17: Worked on project setup
 
 - 2021-01-18: Implemented new feature
+
+- 2021-01-19: Fixed bugs
