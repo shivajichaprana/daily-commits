@@ -910,3 +910,5 @@
 - 2021-01-19: Fixed bugs
 
 - 2021-01-20: Refactored code
+
+- 2021-01-21: Added documentation
