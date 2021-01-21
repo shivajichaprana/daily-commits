@@ -772,3 +772,5 @@
 - 2021-01-20: Implemented new feature
 
 - 2021-01-21: Fixed bugs
+
+- 2021-01-22: Refactored code
