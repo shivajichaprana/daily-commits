@@ -912,3 +912,5 @@
 - 2021-01-20: Refactored code
 
 - 2021-01-21: Added documentation
+
+- 2021-01-22: Performed code review
