@@ -914,3 +914,5 @@
 - 2021-01-21: Added documentation
 
 - 2021-01-22: Performed code review
+
+- 2021-01-23: Optimized performance
