@@ -924,3 +924,5 @@
 - 2021-01-26: Implemented new feature
 
 - 2021-01-27: Fixed bugs
+
+- 2021-01-28: Refactored code
