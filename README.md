@@ -800,3 +800,5 @@
 - 2021-02-03: Resolved issues
 
 - 2021-02-04: Worked on project setup
+
+- 2021-02-05: Implemented new feature
