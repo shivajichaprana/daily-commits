@@ -802,3 +802,5 @@
 - 2021-02-04: Worked on project setup
 
 - 2021-02-05: Implemented new feature
+
+- 2021-02-06: Fixed bugs
