@@ -804,3 +804,5 @@
 - 2021-02-05: Implemented new feature
 
 - 2021-02-06: Fixed bugs
+
+- 2021-02-07: Refactored code
