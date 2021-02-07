@@ -806,3 +806,5 @@
 - 2021-02-06: Fixed bugs
 
 - 2021-02-07: Refactored code
+
+- 2021-02-08: Added documentation
