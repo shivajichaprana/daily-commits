@@ -808,3 +808,5 @@
 - 2021-02-07: Refactored code
 
 - 2021-02-08: Added documentation
+
+- 2021-02-09: Performed code review
