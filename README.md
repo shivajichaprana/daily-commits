@@ -812,3 +812,5 @@
 - 2021-02-09: Performed code review
 
 - 2021-02-10: Optimized performance
+
+- 2021-02-11: Resolved issues
