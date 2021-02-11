@@ -954,3 +954,5 @@
 - 2021-02-10: Worked on project setup
 
 - 2021-02-11: Implemented new feature
+
+- 2021-02-12: Fixed bugs
