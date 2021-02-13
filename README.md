@@ -818,3 +818,5 @@
 - 2021-02-12: Worked on project setup
 
 - 2021-02-13: Implemented new feature
+
+- 2021-02-14: Fixed bugs
