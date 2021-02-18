@@ -968,3 +968,5 @@
 - 2021-02-17: Resolved issues
 
 - 2021-02-18: Worked on project setup
+
+- 2021-02-19: Implemented new feature
