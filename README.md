@@ -832,3 +832,5 @@
 - 2021-02-19: Resolved issues
 
 - 2021-02-20: Worked on project setup
+
+- 2021-02-21: Implemented new feature
