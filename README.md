@@ -862,3 +862,5 @@
 - 2021-03-06: Optimized performance
 
 - 2021-03-07: Resolved issues
+
+- 2021-03-08: Worked on project setup
