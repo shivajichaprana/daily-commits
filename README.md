@@ -994,3 +994,5 @@
 - 2022-01-01: Worked on project setup
 
 - 2022-01-02: Implemented new feature
+
+- 2022-01-03: Fixed bugs
