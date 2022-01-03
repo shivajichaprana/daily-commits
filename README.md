@@ -996,3 +996,5 @@
 - 2022-01-02: Implemented new feature
 
 - 2022-01-03: Fixed bugs
+
+- 2022-01-04: Refactored code
