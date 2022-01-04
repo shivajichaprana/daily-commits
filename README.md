@@ -998,3 +998,5 @@
 - 2022-01-03: Fixed bugs
 
 - 2022-01-04: Refactored code
+
+- 2022-01-05: Added documentation
