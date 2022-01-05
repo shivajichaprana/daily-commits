@@ -1000,3 +1000,5 @@
 - 2022-01-04: Refactored code
 
 - 2022-01-05: Added documentation
+
+- 2022-01-06: Performed code review
