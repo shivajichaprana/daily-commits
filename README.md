@@ -1008,3 +1008,5 @@
 - 2022-01-08: Resolved issues
 
 - 2022-01-09: Worked on project setup
+
+- 2022-01-10: Implemented new feature
