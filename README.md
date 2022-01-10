@@ -1010,3 +1010,5 @@
 - 2022-01-09: Worked on project setup
 
 - 2022-01-10: Implemented new feature
+
+- 2022-01-11: Fixed bugs
