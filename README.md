@@ -1050,3 +1050,5 @@
 - 2022-04-04: Optimized performance
 
 - 2022-04-05: Refactored code
+
+- 2022-04-06: Added documentation
