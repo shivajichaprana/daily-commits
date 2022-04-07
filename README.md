@@ -1052,3 +1052,5 @@
 - 2022-04-05: Refactored code
 
 - 2022-04-06: Added documentation
+
+- 2022-04-08: Performed code review
