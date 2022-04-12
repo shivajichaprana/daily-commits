@@ -1056,3 +1056,5 @@
 - 2022-04-08: Performed code review
 
 - 2022-04-09: Performed code review
+
+- 2022-04-13: Resolved issues
