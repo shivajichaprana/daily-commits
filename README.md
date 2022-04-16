@@ -1062,3 +1062,5 @@
 - 2022-04-14: Performed code review
 
 - 2022-04-15: Implemented new feature
+
+- 2022-04-17: Added documentation
