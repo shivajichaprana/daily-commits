@@ -1064,3 +1064,5 @@
 - 2022-04-15: Implemented new feature
 
 - 2022-04-17: Added documentation
+
+- 2022-04-20: Refactored code
