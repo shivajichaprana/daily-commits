@@ -1074,3 +1074,5 @@
 - 2022-04-25: Optimized performance
 
 - 2022-04-26: Refactored code
+
+- 2022-04-27: Worked on project setup
