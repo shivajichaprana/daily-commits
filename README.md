@@ -1012,3 +1012,5 @@
 - 2022-01-10: Implemented new feature
 
 - 2022-01-11: Fixed bugs
+
+- 2022-06-01: Refactored code
