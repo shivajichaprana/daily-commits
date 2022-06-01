@@ -1014,3 +1014,5 @@
 - 2022-01-11: Fixed bugs
 
 - 2022-06-01: Refactored code
+
+- 2022-06-02: Implemented new feature
