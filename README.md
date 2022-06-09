@@ -1030,3 +1030,5 @@
 - 2022-06-08: Fixed bugs
 
 - 2022-06-09: Worked on project setup
+
+- 2022-06-10: Added documentation
