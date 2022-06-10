@@ -1032,3 +1032,5 @@
 - 2022-06-09: Worked on project setup
 
 - 2022-06-10: Added documentation
+
+- 2022-06-11: Implemented new feature
