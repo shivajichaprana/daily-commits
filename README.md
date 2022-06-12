@@ -1036,3 +1036,5 @@
 - 2022-06-11: Implemented new feature
 
 - 2022-06-12: Refactored code
+
+- 2022-06-13: Implemented new feature
