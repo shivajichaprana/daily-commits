@@ -1040,3 +1040,5 @@
 - 2022-06-13: Implemented new feature
 
 - 2022-07-01: Implemented new feature
+
+- 2022-07-02: Resolved issues
